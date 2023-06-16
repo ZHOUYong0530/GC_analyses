@@ -3,7 +3,7 @@ The genetic basis of NATs and evolution (normal adjacent to the tumor) is not un
 
 # Sampling
 
-
+![image](GC_sampling.png)
 
 # Results
 First, cancer cell infiltration is pervasive in GCs. An average of approximately 50% of NATs harbor mutations from the primary tumor despite of >3cm away from the tumor margin, suggesting the pervasiveness of cancer cell infiltration or field cancerization during GC progression.
