@@ -1,11 +1,11 @@
-# introduction
+# Introduction
 The genetic basis of NATs and evolution (normal adjacent to the tumor) is not unknown. This project amied to extract the genetic information of NATs by sequenceing DNA samples from 13 patients. 
 
-# sampling
+# Sampling
 
 
 
-# results
+# Results
 First, cancer cell infiltration is pervasive in GCs. An average of approximately 50% of NATs harbor mutations from the primary tumor despite of >3cm away from the tumor margin, suggesting the pervasiveness of cancer cell infiltration or field cancerization during GC progression.
 
 Second, the evolution of NATs from the same patient is independent of each other. NAT-private mutations (excluding mutations from the primary tumor) are not shared between NATs from the same patients, indicating that NAT evolves independently. It informs more samples are needed to study the mutation in normal tissues.
